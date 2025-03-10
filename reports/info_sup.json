@@ -1,0 +1,382 @@
+{
+    "CVE-2011-3374": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "TEMP-0841856-B18BAF": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2022-0563": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2016-2781": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2017-18018": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-11053": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-9681": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-2379": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2025-0167": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2025-0725": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2022-27943": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-4039": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2022-3219": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2025-0838": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-6879": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-39616": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2025-0395": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2010-4756": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2018-20796": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2019-1010022": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2019-1010023": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2019-1010024": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2019-1010025": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2019-9192": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2025-1390": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-32570": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-51792": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-38949": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-38950": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-52425": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-50602": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-52426": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-28757": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-2236": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2018-6829": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2011-3389": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-26462": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2025-24528": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2018-5709": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-26458": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-26461": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-49463": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-25269": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2017-9937": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-2953": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2015-3276": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2017-14159": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2017-17740": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2020-15719": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-10041": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-22365": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2021-4214": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-13176": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2013-4392": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-31437": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-31438": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-31439": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-52355": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-6277": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2017-16232": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2017-17973": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2017-5563": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2017-9117": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2018-10126": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2022-1210": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-1916": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-3164": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-6228": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-50495": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-25062": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-56171": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2025-24928": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2025-27113": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2022-49043": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-39615": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-45322": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-34459": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2015-9019": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-4641": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2007-5686": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-29383": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-56433": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "TEMP-0628843-DBAD28": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2024-7347": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2025-23419": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2009-4487": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2013-0337": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-44487": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-31484": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2011-4116": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-31486": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "TEMP-0517018-A83CE6": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2005-2541": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "TEMP-0290435-0B57B5": {
+        "description": "Description non disponible",
+        "references": []
+    },
+    "CVE-2023-45853": {
+        "description": "Description non disponible",
+        "references": []
+    }
+}

@@ -1,0 +1,1226 @@
+[
+    {
+        "Package": "libaom3",
+        "VulnerabilityID": "CVE-2023-6879",
+        "Severity": "CRITICAL",
+        "PriorityScore": 2.0,
+        "InstalledVersion": "3.6.0-1+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "zlib1g",
+        "VulnerabilityID": "CVE-2023-45853",
+        "Severity": "CRITICAL",
+        "PriorityScore": 2.0,
+        "InstalledVersion": "1:1.2.13.dfsg-1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libaom3",
+        "VulnerabilityID": "CVE-2023-39616",
+        "Severity": "HIGH",
+        "PriorityScore": 3.0,
+        "InstalledVersion": "3.6.0-1+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libexpat1",
+        "VulnerabilityID": "CVE-2023-52425",
+        "Severity": "HIGH",
+        "PriorityScore": 3.0,
+        "InstalledVersion": "2.5.0-1+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libldap-2.5-0",
+        "VulnerabilityID": "CVE-2023-2953",
+        "Severity": "HIGH",
+        "PriorityScore": 3.0,
+        "InstalledVersion": "2.5.13+dfsg-5",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2023-52355",
+        "Severity": "HIGH",
+        "PriorityScore": 3.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libxml2",
+        "VulnerabilityID": "CVE-2024-25062",
+        "Severity": "HIGH",
+        "PriorityScore": 3.0,
+        "InstalledVersion": "2.9.14+dfsg-1.3~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libxml2",
+        "VulnerabilityID": "CVE-2024-56171",
+        "Severity": "HIGH",
+        "PriorityScore": 3.0,
+        "InstalledVersion": "2.9.14+dfsg-1.3~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libxml2",
+        "VulnerabilityID": "CVE-2025-24928",
+        "Severity": "HIGH",
+        "PriorityScore": 3.0,
+        "InstalledVersion": "2.9.14+dfsg-1.3~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libxml2",
+        "VulnerabilityID": "CVE-2025-27113",
+        "Severity": "HIGH",
+        "PriorityScore": 3.0,
+        "InstalledVersion": "2.9.14+dfsg-1.3~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "perl-base",
+        "VulnerabilityID": "CVE-2023-31484",
+        "Severity": "HIGH",
+        "PriorityScore": 3.0,
+        "InstalledVersion": "5.36.0-7+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "curl",
+        "VulnerabilityID": "CVE-2024-11053",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "7.88.1-10+deb12u8",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "curl",
+        "VulnerabilityID": "CVE-2024-9681",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "7.88.1-10+deb12u8",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libabsl20220623",
+        "VulnerabilityID": "CVE-2025-0838",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "20220623.1-1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc-bin",
+        "VulnerabilityID": "CVE-2025-0395",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc6",
+        "VulnerabilityID": "CVE-2025-0395",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libcap2",
+        "VulnerabilityID": "CVE-2025-1390",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1:2.66-4",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libcurl4",
+        "VulnerabilityID": "CVE-2024-11053",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "7.88.1-10+deb12u8",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libcurl4",
+        "VulnerabilityID": "CVE-2024-9681",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "7.88.1-10+deb12u8",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libdav1d6",
+        "VulnerabilityID": "CVE-2023-32570",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.0.0-2+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libde265-0",
+        "VulnerabilityID": "CVE-2023-51792",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.0.11-1+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libde265-0",
+        "VulnerabilityID": "CVE-2024-38949",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.0.11-1+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libde265-0",
+        "VulnerabilityID": "CVE-2024-38950",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.0.11-1+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libexpat1",
+        "VulnerabilityID": "CVE-2024-50602",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "2.5.0-1+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libgcrypt20",
+        "VulnerabilityID": "CVE-2024-2236",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.10.1-3",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libgssapi-krb5-2",
+        "VulnerabilityID": "CVE-2024-26462",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libgssapi-krb5-2",
+        "VulnerabilityID": "CVE-2025-24528",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libk5crypto3",
+        "VulnerabilityID": "CVE-2024-26462",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libk5crypto3",
+        "VulnerabilityID": "CVE-2025-24528",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libkrb5-3",
+        "VulnerabilityID": "CVE-2024-26462",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libkrb5-3",
+        "VulnerabilityID": "CVE-2025-24528",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libkrb5support0",
+        "VulnerabilityID": "CVE-2024-26462",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libkrb5support0",
+        "VulnerabilityID": "CVE-2025-24528",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libpam-modules",
+        "VulnerabilityID": "CVE-2024-10041",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.5.2-6+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libpam-modules",
+        "VulnerabilityID": "CVE-2024-22365",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.5.2-6+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libpam-modules-bin",
+        "VulnerabilityID": "CVE-2024-10041",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.5.2-6+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libpam-modules-bin",
+        "VulnerabilityID": "CVE-2024-22365",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.5.2-6+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libpam-runtime",
+        "VulnerabilityID": "CVE-2024-10041",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.5.2-6+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libpam-runtime",
+        "VulnerabilityID": "CVE-2024-22365",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.5.2-6+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libpam0g",
+        "VulnerabilityID": "CVE-2024-10041",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.5.2-6+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libpam0g",
+        "VulnerabilityID": "CVE-2024-22365",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.5.2-6+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libssl3",
+        "VulnerabilityID": "CVE-2024-13176",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "3.0.15-1~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2023-6277",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtinfo6",
+        "VulnerabilityID": "CVE-2023-50495",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "6.4-4",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libxml2",
+        "VulnerabilityID": "CVE-2022-49043",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "2.9.14+dfsg-1.3~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libxml2",
+        "VulnerabilityID": "CVE-2023-39615",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "2.9.14+dfsg-1.3~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libxml2",
+        "VulnerabilityID": "CVE-2023-45322",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "2.9.14+dfsg-1.3~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "login",
+        "VulnerabilityID": "CVE-2023-4641",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1:4.13+dfsg1-1+b1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "ncurses-base",
+        "VulnerabilityID": "CVE-2023-50495",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "6.4-4",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "ncurses-bin",
+        "VulnerabilityID": "CVE-2023-50495",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "6.4-4",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "nginx",
+        "VulnerabilityID": "CVE-2024-7347",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.27.4-1~bookworm",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "nginx",
+        "VulnerabilityID": "CVE-2025-23419",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1.27.4-1~bookworm",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "openssl",
+        "VulnerabilityID": "CVE-2024-13176",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "3.0.15-1~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "passwd",
+        "VulnerabilityID": "CVE-2023-4641",
+        "Severity": "MEDIUM",
+        "PriorityScore": 4.0,
+        "InstalledVersion": "1:4.13+dfsg1-1+b1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "apt",
+        "VulnerabilityID": "CVE-2011-3374",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.6.1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "bash",
+        "VulnerabilityID": "TEMP-0841856-B18BAF",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "5.2.15-2+b7",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "bsdutils",
+        "VulnerabilityID": "CVE-2022-0563",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1:2.38.1-5+deb12u3",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "coreutils",
+        "VulnerabilityID": "CVE-2016-2781",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "9.1-1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "coreutils",
+        "VulnerabilityID": "CVE-2017-18018",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "9.1-1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "curl",
+        "VulnerabilityID": "CVE-2024-2379",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "7.88.1-10+deb12u8",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "curl",
+        "VulnerabilityID": "CVE-2025-0167",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "7.88.1-10+deb12u8",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "curl",
+        "VulnerabilityID": "CVE-2025-0725",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "7.88.1-10+deb12u8",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "gcc-12-base",
+        "VulnerabilityID": "CVE-2022-27943",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "12.2.0-14",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "gcc-12-base",
+        "VulnerabilityID": "CVE-2023-4039",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "12.2.0-14",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "gpgv",
+        "VulnerabilityID": "CVE-2022-3219",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.2.40-1.1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libapt-pkg6.0",
+        "VulnerabilityID": "CVE-2011-3374",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.6.1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libblkid1",
+        "VulnerabilityID": "CVE-2022-0563",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.38.1-5+deb12u3",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc-bin",
+        "VulnerabilityID": "CVE-2010-4756",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc-bin",
+        "VulnerabilityID": "CVE-2018-20796",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc-bin",
+        "VulnerabilityID": "CVE-2019-1010022",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc-bin",
+        "VulnerabilityID": "CVE-2019-1010023",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc-bin",
+        "VulnerabilityID": "CVE-2019-1010024",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc-bin",
+        "VulnerabilityID": "CVE-2019-1010025",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc-bin",
+        "VulnerabilityID": "CVE-2019-9192",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc6",
+        "VulnerabilityID": "CVE-2010-4756",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc6",
+        "VulnerabilityID": "CVE-2018-20796",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc6",
+        "VulnerabilityID": "CVE-2019-1010022",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc6",
+        "VulnerabilityID": "CVE-2019-1010023",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc6",
+        "VulnerabilityID": "CVE-2019-1010024",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc6",
+        "VulnerabilityID": "CVE-2019-1010025",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libc6",
+        "VulnerabilityID": "CVE-2019-9192",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.36-9+deb12u9",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libcurl4",
+        "VulnerabilityID": "CVE-2024-2379",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "7.88.1-10+deb12u8",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libcurl4",
+        "VulnerabilityID": "CVE-2025-0167",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "7.88.1-10+deb12u8",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libcurl4",
+        "VulnerabilityID": "CVE-2025-0725",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "7.88.1-10+deb12u8",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libexpat1",
+        "VulnerabilityID": "CVE-2023-52426",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.5.0-1+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libexpat1",
+        "VulnerabilityID": "CVE-2024-28757",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.5.0-1+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libgcc-s1",
+        "VulnerabilityID": "CVE-2022-27943",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "12.2.0-14",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libgcc-s1",
+        "VulnerabilityID": "CVE-2023-4039",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "12.2.0-14",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libgcrypt20",
+        "VulnerabilityID": "CVE-2018-6829",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.10.1-3",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libgnutls30",
+        "VulnerabilityID": "CVE-2011-3389",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "3.7.9-2+deb12u4",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libgssapi-krb5-2",
+        "VulnerabilityID": "CVE-2018-5709",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libgssapi-krb5-2",
+        "VulnerabilityID": "CVE-2024-26458",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libgssapi-krb5-2",
+        "VulnerabilityID": "CVE-2024-26461",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libheif1",
+        "VulnerabilityID": "CVE-2023-49463",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.15.1-1+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libheif1",
+        "VulnerabilityID": "CVE-2024-25269",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.15.1-1+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libjbig0",
+        "VulnerabilityID": "CVE-2017-9937",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.1-6.1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libk5crypto3",
+        "VulnerabilityID": "CVE-2018-5709",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libk5crypto3",
+        "VulnerabilityID": "CVE-2024-26458",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libk5crypto3",
+        "VulnerabilityID": "CVE-2024-26461",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libkrb5-3",
+        "VulnerabilityID": "CVE-2018-5709",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libkrb5-3",
+        "VulnerabilityID": "CVE-2024-26458",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libkrb5-3",
+        "VulnerabilityID": "CVE-2024-26461",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libkrb5support0",
+        "VulnerabilityID": "CVE-2018-5709",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libkrb5support0",
+        "VulnerabilityID": "CVE-2024-26458",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libkrb5support0",
+        "VulnerabilityID": "CVE-2024-26461",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.20.1-2+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libldap-2.5-0",
+        "VulnerabilityID": "CVE-2015-3276",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.5.13+dfsg-5",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libldap-2.5-0",
+        "VulnerabilityID": "CVE-2017-14159",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.5.13+dfsg-5",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libldap-2.5-0",
+        "VulnerabilityID": "CVE-2017-17740",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.5.13+dfsg-5",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libldap-2.5-0",
+        "VulnerabilityID": "CVE-2020-15719",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.5.13+dfsg-5",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libmount1",
+        "VulnerabilityID": "CVE-2022-0563",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.38.1-5+deb12u3",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libpng16-16",
+        "VulnerabilityID": "CVE-2021-4214",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.6.39-2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libsmartcols1",
+        "VulnerabilityID": "CVE-2022-0563",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.38.1-5+deb12u3",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libstdc++6",
+        "VulnerabilityID": "CVE-2022-27943",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "12.2.0-14",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libstdc++6",
+        "VulnerabilityID": "CVE-2023-4039",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "12.2.0-14",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libsystemd0",
+        "VulnerabilityID": "CVE-2013-4392",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "252.33-1~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libsystemd0",
+        "VulnerabilityID": "CVE-2023-31437",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "252.33-1~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libsystemd0",
+        "VulnerabilityID": "CVE-2023-31438",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "252.33-1~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libsystemd0",
+        "VulnerabilityID": "CVE-2023-31439",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "252.33-1~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2017-16232",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2017-17973",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2017-5563",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2017-9117",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2018-10126",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2022-1210",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2023-1916",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2023-3164",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libtiff6",
+        "VulnerabilityID": "CVE-2023-6228",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "4.5.0-6+deb12u2",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libudev1",
+        "VulnerabilityID": "CVE-2013-4392",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "252.33-1~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libudev1",
+        "VulnerabilityID": "CVE-2023-31437",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "252.33-1~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libudev1",
+        "VulnerabilityID": "CVE-2023-31438",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "252.33-1~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libudev1",
+        "VulnerabilityID": "CVE-2023-31439",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "252.33-1~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libuuid1",
+        "VulnerabilityID": "CVE-2022-0563",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.38.1-5+deb12u3",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libxml2",
+        "VulnerabilityID": "CVE-2024-34459",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.9.14+dfsg-1.3~deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "libxslt1.1",
+        "VulnerabilityID": "CVE-2015-9019",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.1.35-1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "login",
+        "VulnerabilityID": "CVE-2007-5686",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1:4.13+dfsg1-1+b1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "login",
+        "VulnerabilityID": "CVE-2023-29383",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1:4.13+dfsg1-1+b1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "login",
+        "VulnerabilityID": "CVE-2024-56433",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1:4.13+dfsg1-1+b1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "login",
+        "VulnerabilityID": "TEMP-0628843-DBAD28",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1:4.13+dfsg1-1+b1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "mount",
+        "VulnerabilityID": "CVE-2022-0563",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.38.1-5+deb12u3",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "nginx",
+        "VulnerabilityID": "CVE-2009-4487",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.27.4-1~bookworm",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "nginx",
+        "VulnerabilityID": "CVE-2013-0337",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.27.4-1~bookworm",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "nginx",
+        "VulnerabilityID": "CVE-2023-44487",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.27.4-1~bookworm",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "passwd",
+        "VulnerabilityID": "CVE-2007-5686",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1:4.13+dfsg1-1+b1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "passwd",
+        "VulnerabilityID": "CVE-2023-29383",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1:4.13+dfsg1-1+b1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "passwd",
+        "VulnerabilityID": "CVE-2024-56433",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1:4.13+dfsg1-1+b1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "passwd",
+        "VulnerabilityID": "TEMP-0628843-DBAD28",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1:4.13+dfsg1-1+b1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "perl-base",
+        "VulnerabilityID": "CVE-2011-4116",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "5.36.0-7+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "perl-base",
+        "VulnerabilityID": "CVE-2023-31486",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "5.36.0-7+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "sysvinit-utils",
+        "VulnerabilityID": "TEMP-0517018-A83CE6",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "3.06-4",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "tar",
+        "VulnerabilityID": "CVE-2005-2541",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.34+dfsg-1.2+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "tar",
+        "VulnerabilityID": "TEMP-0290435-0B57B5",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "1.34+dfsg-1.2+deb12u1",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "util-linux",
+        "VulnerabilityID": "CVE-2022-0563",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.38.1-5+deb12u3",
+        "FixedVersion": "N/A"
+    },
+    {
+        "Package": "util-linux-extra",
+        "VulnerabilityID": "CVE-2022-0563",
+        "Severity": "LOW",
+        "PriorityScore": 5.0,
+        "InstalledVersion": "2.38.1-5+deb12u3",
+        "FixedVersion": "N/A"
+    }
+]

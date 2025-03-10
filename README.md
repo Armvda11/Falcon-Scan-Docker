@@ -83,9 +83,9 @@ Les contributions sont les bienvenues !
 5. Ouvre une **pull request**.
 
 ## 📜 Licence
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
 
 ## ✉️ Contact
-📧 **Email** : contact@votredomaine.com  
-🐙 **GitHub** : [Votre Profil GitHub](https://github.com/votre-utilisateur)
+📧 **Email** :  
+🐙 **GitHub** : 
 
