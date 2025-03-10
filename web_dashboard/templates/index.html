@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau de Bord Sécurité</title>
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <h1>📊 Tableau de Bord Sécurité</h1>
+
+    <h2>Répartition des Vulnérabilités par Sévérité</h2>
+    <canvas id="severityChart"></canvas>
+
+    <h2>Top 5 Packages les Plus Vulnérables</h2>
+    <canvas id="packageChart"></canvas>
+
+    <script>
+        // 📌 Vérifier l'appel API pour la répartition des vulnérabilités
+        fetch("/api/severity")
+            .then(response => response.json())
+            .then(data => {
+                console.log("Données de sévérité reçues :", data);  // DEBUG
+                const ctx = document.getElementById("severityChart").getContext("2d");
+                new Chart(ctx, {
+                    type: "bar",
+                    data: {
+                        labels: ["CRITICAL", "HIGH", "MEDIUM", "LOW"],
+                        datasets: [{
+                            label: "Nombre de Vulnérabilités",
+                            data: [data.CRITICAL, data.HIGH, data.MEDIUM, data.LOW],
+                            backgroundColor: ["red", "orange", "yellow", "green"]
+                        }]
+                    }
+                });
+            })
+            .catch(error => console.error("Erreur chargement des données de sévérité :", error));
+    
+        // 📌 Vérifier l'appel API pour les packages vulnérables
+        fetch("/api/packages")
+            .then(response => response.json())
+            .then(data => {
+                console.log("Données des packages reçues :", data);  // DEBUG
+                const labels = Object.keys(data);
+                const values = Object.values(data);
+                const ctx = document.getElementById("packageChart").getContext("2d");
+    
+                new Chart(ctx, {
+                    type: "pie",
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: "Packages les plus vulnérables",
+                            data: values,
+                            backgroundColor: ["blue", "green", "yellow", "red", "purple"]
+                        }]
+                    }
+                });
+            })
+            .catch(error => console.error("Erreur chargement des données des packages :", error));
+    </script>
+    
+
+</body>
+</html>
