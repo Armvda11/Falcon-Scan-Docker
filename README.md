@@ -82,10 +82,5 @@ Les contributions sont les bienvenues !
 4. Pousse ta branche (`git push origin feature-nouvelle-fonctionnalite`).
 5. Ouvre une **pull request**.
 
-## 📜 Licence
 
-
-## ✉️ Contact
-📧 **Email** :  
-🐙 **GitHub** : 
 
